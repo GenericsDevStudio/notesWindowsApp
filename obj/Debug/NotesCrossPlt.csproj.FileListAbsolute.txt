@@ -1,0 +1,14 @@
+c:\users\антон\source\repos\NotesCrossPlt\NotesCrossPlt\bin\Debug\NotesCrossPlt.exe.config
+c:\users\антон\source\repos\NotesCrossPlt\NotesCrossPlt\bin\Debug\NotesCrossPlt.exe
+c:\users\антон\source\repos\NotesCrossPlt\NotesCrossPlt\bin\Debug\NotesCrossPlt.pdb
+c:\users\антон\source\repos\NotesCrossPlt\NotesCrossPlt\bin\Debug\Newtonsoft.Json.dll
+c:\users\антон\source\repos\NotesCrossPlt\NotesCrossPlt\bin\Debug\Newtonsoft.Json.xml
+c:\users\антон\source\repos\NotesCrossPlt\NotesCrossPlt\obj\Debug\NotesCrossPlt.csprojAssemblyReference.cache
+c:\users\антон\source\repos\NotesCrossPlt\NotesCrossPlt\obj\Debug\NotesCrossPlt.Form1.resources
+c:\users\антон\source\repos\NotesCrossPlt\NotesCrossPlt\obj\Debug\NotesCrossPlt.Properties.Resources.resources
+c:\users\антон\source\repos\NotesCrossPlt\NotesCrossPlt\obj\Debug\NotesCrossPlt.Start.resources
+c:\users\антон\source\repos\NotesCrossPlt\NotesCrossPlt\obj\Debug\NotesCrossPlt.csproj.GenerateResource.cache
+c:\users\антон\source\repos\NotesCrossPlt\NotesCrossPlt\obj\Debug\NotesCrossPlt.csproj.CoreCompileInputs.cache
+c:\users\антон\source\repos\NotesCrossPlt\NotesCrossPlt\obj\Debug\NotesCrossPlt.csproj.CopyComplete
+c:\users\антон\source\repos\NotesCrossPlt\NotesCrossPlt\obj\Debug\NotesCrossPlt.exe
+c:\users\антон\source\repos\NotesCrossPlt\NotesCrossPlt\obj\Debug\NotesCrossPlt.pdb
